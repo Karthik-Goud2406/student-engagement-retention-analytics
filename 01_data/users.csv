@@ -1,0 +1,11 @@
+user_id,name,age,gender,signup_date,subscription_type,country
+1,Arjun,21,M,2024-01-10,Free,India
+2,Meera,23,F,2024-01-12,Premium,India
+3,Karthik,22,M,2024-01-15,Free,India
+4,Ananya,20,F,2024-01-17,Premium,India
+5,Rahul,24,M,2024-01-18,Free,India
+6,Sita,22,F,2024-01-20,Premium,India
+7,Ravi,23,M,2024-01-22,Free,India
+8,Pooja,21,F,2024-01-25,Premium,India
+9,Vikram,26,M,2024-01-27,Free,India
+10,Nisha,22,F,2024-01-30,Premium,India

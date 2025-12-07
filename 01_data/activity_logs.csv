@@ -1,0 +1,11 @@
+log_id,user_id,activity_date,activity_type,module_id,time_spent_minutes
+1,1,2024-02-01,login,1,12
+2,1,2024-02-01,video_play,1,25
+3,2,2024-02-01,quiz_attempt,2,10
+4,3,2024-02-02,login,1,5
+5,3,2024-02-02,video_play,2,30
+6,4,2024-02-03,login,3,7
+7,5,2024-02-03,video_play,1,20
+8,6,2024-02-04,login,2,6
+9,7,2024-02-04,quiz_attempt,1,15
+10,8,2024-02-05,login,3,8
